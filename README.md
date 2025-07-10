@@ -115,5 +115,7 @@ GitHub: @AliAnwar10
 Email: alianwar50k@email.com
 
 **Screeshots:**
-![image alt] (https://github.com/AliAnwar10/predictive-maintenance/blob/bfe84340c89fabde08591eb6fde68f11527531cb/Capture.JPG)
-![image alt] (https://github.com/AliAnwar10/predictive-maintenance/blob/bfe84340c89fabde08591eb6fde68f11527531cb/Capture2.JPG)
+
+
+![Image](https://github.com/user-attachments/assets/152c42e3-6c64-4fcd-b976-f8d7c4b32d74)
+![Image](https://github.com/user-attachments/assets/4e496529-8339-4947-bb15-c6a2f22758f8)
