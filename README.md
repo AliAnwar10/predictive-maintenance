@@ -113,3 +113,7 @@ Author: Ali Anwar
 GitHub: @AliAnwar10
 
 Email: alianwar50k@email.com
+
+**Screeshots:**
+![image alt] (https://github.com/AliAnwar10/predictive-maintenance/blob/bfe84340c89fabde08591eb6fde68f11527531cb/Capture.JPG)
+![image alt] (https://github.com/AliAnwar10/predictive-maintenance/blob/bfe84340c89fabde08591eb6fde68f11527531cb/Capture2.JPG)
